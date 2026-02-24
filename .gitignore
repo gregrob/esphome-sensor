@@ -1,0 +1,12 @@
+# Dont add OS junk files to git
+.DS_Store
+Thumbs.db
+
+# KiCad project backups
+# Add the folder to git but not the contents
+hardware/kicad/*-backups/*
+!hardware/kicad/*-backups/.gitkeep
+
+# KiCad autosave and cache files
+hardware/kicad/*_autosave-*
+hardware/kicad/fp-info-cache

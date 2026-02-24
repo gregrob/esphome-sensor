@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "FeatherS3D")(type "KiCad")(uri "${KIPRJMOD}/library/symbols/FeatherS3D.kicad_sym")(options "")(descr ""))
+  (lib (name "D24V5F5")(type "KiCad")(uri "${KIPRJMOD}/library/symbols/D24V5F5.kicad_sym")(options "")(descr ""))
+)
