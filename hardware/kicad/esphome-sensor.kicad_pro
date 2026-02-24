@@ -606,7 +606,7 @@
       "plot": "gerber/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "esphome-sensor.step",
       "svg": "",
       "vrml": ""
     },
