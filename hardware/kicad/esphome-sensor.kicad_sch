@@ -6343,7 +6343,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Polarized"
+		(property "Value" "100uF 35V"
 			(at 54.61 42.2909 0)
 			(effects
 				(font
