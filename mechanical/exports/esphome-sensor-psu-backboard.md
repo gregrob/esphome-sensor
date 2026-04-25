@@ -60,7 +60,7 @@ The PSU backboard is a 3D printed mounting and protection component for the powe
 ### Required Hardware
 | Item | Source |
 |------|--------|
-| Bambu Lab PETG-HF (Black) | Bambu Lab |
+| Bambu Lab PETG-HF (Black) | [Bambu Lab](https://au.store.bambulab.com/products/petg-hf) |
 | M3 Threaded Inserts M3xL4xOD4.2 | [Amazon AU](https://www.amazon.com.au/dp/B0BBSLL6G7) |
 | Meanwell IRM-30-12ST 30W 12V 2.5A PSU | [Jaycar MP3302](https://www.jaycar.com.au/30w-12v-2-5a-mini-power-supply/p/MP3302) |
 | 250VAC 10A M205 Inline Fuse Holder | [Jaycar SZ2030](https://www.jaycar.com.au/250vac-10a-m205-panel-mount-fuse-holder/p/SZ2030) |
