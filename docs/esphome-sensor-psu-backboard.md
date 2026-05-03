@@ -87,6 +87,24 @@ The PSU backboard is a 3D printed mounting and protection component for the powe
 6. Install backboard into enclosure
 7. Install cable glands and route cables
 
+## Images
+
+<img src="./images/psu-backboard.jpeg" alt="PSU Backboard" width="400">
+
+*3D printed PSU backboard showing heat insert bosses and cable management features*
+
+<img src="./images/psu-backboard-inserts.jpeg" alt="PSU Backboard with Brass Inserts" width="400">
+
+*Heat inserts installed*
+
+<img src="./images/psu-backboard-mounted.jpeg" alt="PSU Backboard Mounted" width="400">
+
+*Backboard mounted in enclosure with PSU, terminal block, and fuse holders*
+
+<img src="./images/psu-backboard-housed.jpeg" alt="PSU Backboard Housed" width="400">
+
+*Complete assembly ready for deployment*
+
 ## Version History
 | Version | Notes |
 |---------|-------|
