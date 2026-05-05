@@ -2,6 +2,10 @@
 
 An ESP32-S3 based sensor board system for ESPHome and Home Assistant, designed for outdoor environmental monitoring with a focus on hot water system and water tank level monitoring. Includes a complete mechanical system with 3D printable parts and a purpose-built outdoor 12V DC power distribution unit.
 
+<img src="./docs/images/tank-sensor.jpeg" alt="Tank Sensor with Adapter" width="400">
+
+*Tank Sensor with Adapter*
+
 ## Features
 
 - ESP32-S3 (FeatherS3D) with WiFi and ESPHome integration
@@ -55,6 +59,7 @@ An ESP32-S3 based sensor board system for ESPHome and Home Assistant, designed f
 
 - [ ] Write `docs/hardware.md`
 - [ ] Write `docs/mechanical.md`
+- [ ] Better tank sensor demo photo
 - [ ] Sync software for ESPHome in personal HA repo here
 - [ ] UV rated cables for ToF sensor
 - [ ] Finalise tank adaptr
