@@ -6,6 +6,10 @@ An ESP32-S3 based sensor board system for ESPHome and Home Assistant, designed f
 
 *Tank Sensor with Adapter*
 
+<img src="./docs/images/tank-sensor-operation.jpeg" alt="Tank Sensor with Adapter" width="400">
+
+*Tank Sensor in Operation*
+
 ## Features
 
 - ESP32-S3 (FeatherS3D) with WiFi and ESPHome integration
