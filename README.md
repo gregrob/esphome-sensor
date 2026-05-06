@@ -68,6 +68,8 @@ An ESP32-S3 based sensor board system for ESPHome and Home Assistant, designed f
   - [ ] Exit hole size increase
 - [ ] Inprove 3D printed covers in PETG-HF
   - [ ] Document the improvement - 8 top layers, Hilbery Curve top surface, Gyroid infill, top surface speed 35 mm/s
+- [ ] Move algorithm to device for the hws sensor
+- [ ] Possibly 3D print UV shroud for devices
 - [ ] Light pipes on the tank sensor
 
 ## License
